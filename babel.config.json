@@ -1,0 +1,17 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "targets": "node 22",
+        "modules": "commonjs"
+      }
+    ],
+    "@babel/preset-typescript"
+  ],
+  "plugins": [
+  ],
+  "sourceMaps": true,
+  "comments": false,
+  "ignore": ["node_modules/**/*"]
+}

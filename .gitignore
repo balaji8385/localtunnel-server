@@ -1,0 +1,21 @@
+# Ignore actual nginx configuration with sensitive data
+nginx.conf/tunnel.conf
+
+# Ignore SSL certificates
+*.pem
+*.key
+*.crt
+*.csr
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+node_modules
+logs
+dist
