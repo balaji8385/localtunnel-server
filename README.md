@@ -195,7 +195,7 @@ For production deployments, it's highly recommended to use Nginx as a reverse pr
 
 4. **Follow the complete setup guide:**
    
-   **[See detailed SSL & Nginx Setup Guide](./localtunnel-server/nginx.conf/README.md)**
+   **[See detailed SSL & Nginx Setup Guide](./nginx.conf/README.md)**
 
 The guide includes:
 - Step-by-step SSL certificate setup (Let's Encrypt & self-signed)
