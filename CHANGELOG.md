@@ -3,4 +3,10 @@
 All notable changes to this project will be documented in this file.  
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## Unreleased
+## [Unreleased](https://github.com/balaji8385/localtunnel-server/compare/v1.0.1...HEAD)
+
+## v1.0.1 – 2025-11-09
+
+### Commits
+
+- [ [`5023ecd`](/commit/5023ecdf2a7259d2887d59a72f0cda5f6d54bf39) ] initial commit to realworld by Balaji Lakshmi Narayanan <<lbalaji@live.com>>
